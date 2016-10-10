@@ -1,0 +1,23 @@
+{
+  "name": "happygo",
+  "version": "0.0.1",
+  "description": "Widgets of games",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxiaobei/happygo.git"
+  },
+  "keywords": [
+    "game",
+    "widget"
+  ],
+  "author": "donghualei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moxiaobei/happygo/issues"
+  },
+  "homepage": "https://github.com/moxiaobei/happygo#readme"
+}
